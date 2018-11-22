@@ -1,0 +1,22 @@
+{
+  "name": "generator-mongodb-stitch",
+  "version": "0.1.0",
+  "description": "MongoDB Atlas - Stitch app generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/mitlley-sandbox/generator-mongodb-stitch.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "David Méndez",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://gitlab.com/mitlley-sandbox/generator-mongodb-stitch/issues"
+  },
+  "homepage": "https://gitlab.com/mitlley-sandbox/generator-mongodb-stitch#README"
+}
