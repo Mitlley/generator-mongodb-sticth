@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Yeoman MongoDB Atlas - Stitch app generator.",
   "main": "index.js",
+  "files": [
+    "generators"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,6 +25,9 @@
   },
   "homepage": "https://gitlab.com/mitlley-sandbox/generator-mongodb-stitch#README",
   "dependencies": {
-    "yeoman-generator": "^1.1.1"
+    "chalk": "^2.4.1",
+    "lodash": "^4.17.11",
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.2"
   }
 }
