@@ -28,7 +28,7 @@ module.exports = class extends Generator{
       type: 'input',
       name: 'appName',
       message: 'What\'s the app name?',
-      default: _.startCase(this.appname),
+      default: this.appname,
       validate: function(input){
         if(input.indexOf(' ') !== -1){
           return "App name can\'t contain spaces.";
