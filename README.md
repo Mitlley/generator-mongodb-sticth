@@ -22,12 +22,15 @@ Once the generator has finished the process, you will find the basic structure o
 
 ## Deployment
 
-You can deploy to tree diferents environments, in the practice that's three diferentes stitch apps on the Atlas porject.
+You can deploy to tree diferents environments, in the practice that's three diferentes stitch apps on the Atlas project.
 
 Feel free to deploy to any env at any time `gulp deploy:dev`, `gulp deploy:stage` or `gulp deploy:prod`.
 
+For instance
 ```bash
 $ gulp deploy:prod
 ```
+
+Will dpeloy in your Atlas proyect the stitc app named ***app-name*-prod**.
 
 Developed by [@mitlley](https://gitlab.com/mitlley).

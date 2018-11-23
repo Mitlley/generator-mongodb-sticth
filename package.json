@@ -18,8 +18,8 @@
     "mongodb",
     "stitch"
   ],
-  "author": "David Méndez",
-  "license": "BSD-2-Clause",
+  "author": "David Méndez <imdavidmendez@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://gitlab.com/mitlley-sandbox/generator-mongodb-stitch/issues"
   },
